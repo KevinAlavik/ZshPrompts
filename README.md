@@ -11,3 +11,6 @@ Code: (put in .zshrc)
 autoload -U colors && colors
 NEWLINE=$'\n'
 PROMPT="%F{blue}%n%f  %F{red}(%~)  %f%F{green}(%T)%f${NEWLINE}%F{red}-->%f "
+```
+
+more coming soon
